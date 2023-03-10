@@ -15,11 +15,14 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 43
     width: 1920
     height: 989
 =======
+=======
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
     x: 706
     y: 303
     width: 1206
@@ -304,11 +307,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 629
     width: 1464
     height: 362
 =======
+=======
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
     x: 706
     y: 727
     width: 920
@@ -347,7 +353,11 @@ MonoBehaviour:
     m_SelectedIDs: e4770000
     m_LastClickedID: 30692
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000e277000000ca9a3b
+=======
+    m_ExpandedIDs: 00000000e477000000ca9a3bffffff7f
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
 =======
     m_ExpandedIDs: 00000000e477000000ca9a3bffffff7f
 >>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
@@ -455,11 +465,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1465
     y: 73
     width: 454
     height: 918
 =======
+=======
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
     x: 1627
     y: 333
     width: 284
@@ -503,11 +516,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 73
     width: 363
     height: 535
 =======
+=======
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
     x: 706
     y: 333
     width: 227
@@ -523,7 +539,11 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: d6d8ffff
+=======
+      m_ExpandedIDs: d4d8ffff
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
 =======
       m_ExpandedIDs: d4d8ffff
 >>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
@@ -571,11 +591,14 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 364
     y: 73
     width: 1099
     height: 535
 =======
+=======
+>>>>>>> 69691504e97e185339d8f13655b1d880b0c1cf51
     x: 934
     y: 333
     width: 691
